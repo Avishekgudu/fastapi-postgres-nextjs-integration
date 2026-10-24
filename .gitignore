@@ -1,0 +1,9 @@
+# environment files
+.env
+.env.*
+!.env.example
+
+# editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
